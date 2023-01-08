@@ -2,6 +2,8 @@
 
 ## Description:
 
+This is a micro-project as Enrollment form for students who will provide their personal details to get enrolled in School. Also, data is managed and stored using JSON PowerDB. JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. 
+
 A student enrollment form is used to register new students to schools, colleges, or universities. With this free online Student Enrollment Form, educational institutions of all sizes can seamlessly collect student enrollment forms online.
 
 ## Benefits of using JsonPowerDB:
@@ -13,7 +15,8 @@ A student enrollment form is used to register new students to schools, colleges,
 * Backends code is not required for database
 * No need for defining schema
 
-## Release History:
+## Release History: 
+ >8th January,2023
 
 ## Technology used:
 
@@ -23,7 +26,7 @@ A student enrollment form is used to register new students to schools, colleges,
 * JsonPowerDB
 
 ## Table of Contents: 
-->The project consists of form with details Roll_No, Full_Name, Class, Birth-date, Address, Enrollment-date and 3 buttons Save, Update, Reset. ->In this project a student first needs to enter his roll no. ->If the roll no is not present in the database the student will be able to save his data in the database using save button. ->If the roll no is already present in the database the student will be able to update his data int the database using Update button. ->Reset button is used to reset the form to its previous state ->JSON Power DB is used to store the data.
+>The project consists of form with details Roll_No, Full_Name, Class, Birth-date, Address, Enrollment-date and 3 buttons Save, Update, Reset.In this project a student first needs to enter his roll no.If the roll no is not present in the database the student will be able to save his data in the database using save button.If the roll no is already present in the database the student will be able to update his data int the database using Update button.Reset button is used to reset the form to its previous state.SON Power DB is used to store the data.
 
 ## Illustrations:
 
@@ -39,6 +42,9 @@ A student enrollment form is used to register new students to schools, colleges,
 ## Sources:
 
 * Introduction to JsonPowerDB - V2.0 course on https://careers.login2explore.com/
+
+## Project Status: 
+>Completed
 
 
 
